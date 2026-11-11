@@ -29,7 +29,6 @@ AERIAL_PROMPTS = {
     "forest":    ["an aerial photo of a forest", "a drone shot over a forest"],
     "city":      ["an aerial photo of a city", "a drone shot over an urban area"],
     "farmland":  ["an aerial photo of farmland", "a drone shot over agricultural fields"],
-    "mountains": ["an aerial photo of mountains", "a drone shot over mountain ridges"],
     "desert":    ["an aerial photo of a desert", "a drone shot over sand dunes"],
     "coast":     ["an aerial photo of a coastline", "a drone shot over the sea shore"],
 }
